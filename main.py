@@ -1,9 +1,3 @@
-# TODO 1 Choosing a random number between 1 and 100.
-# TODO 2 Make function to set difficulty
-# TODO 3 let the user guess the number
-# TODO 4 Function to check if the user answer is correct.
-# TODO 5 Track the number of turns and reduce it by 1 if the guess is wrong
-# TODO 6 Repeat until the number of turns is gone or number is guessed
 import random
 hard_diff = 5
 easy_diff = 10
